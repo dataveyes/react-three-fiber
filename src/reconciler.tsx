@@ -1,6 +1,6 @@
 import * as THREE from 'three'
 import Reconciler from 'react-reconciler'
-import addInstancedMesh from 'three-instanced-mesh' )
+import addInstancedMesh from 'three-instanced-mesh'
 import { unstable_now as now, unstable_IdlePriority as idlePriority, unstable_runWithPriority as run } from 'scheduler'
 import { CanvasContext } from './canvas'
 import { version } from '../package.json'
